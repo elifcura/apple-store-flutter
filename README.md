@@ -26,9 +26,9 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 4. Uygulamayı çalıştırın: 
    `flutter run -d chrome` (veya bağlı cihazınızda)
 
-## 📸 Ekran Görüntüleri
-![Ana Sayfa](ekran_goruntusu_linki)
-![Sepet Sayfası](ekran_goruntusu_linki)
+##  Ekran Görüntüleri
+![Ana Sayfa](ana_sayfa.png)
+![Sepet Sayfası](sepet_sayfası.png)
 
 
 
