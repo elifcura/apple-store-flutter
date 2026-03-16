@@ -27,8 +27,8 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
    `flutter run -d chrome` (veya bağlı cihazınızda)
 
 ##  Ekran Görüntüleri
-![Ana Sayfa](ana_sayfa.png)
-![Sepet Sayfası](sepet_sayfası.png)
+![Ana Sayfa](main_page.png)
+![Sepet Sayfası](cart_page.png)
 
 
 
